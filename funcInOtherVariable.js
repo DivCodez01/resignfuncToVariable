@@ -1,3 +1,4 @@
+document.title = "Use function to asign variable"
 // resign the variable the same value
 
 /* let number1 = signNumber();
@@ -22,7 +23,7 @@ function numberTwo() {
 
 console.log(number1 + number2); */
 
-// use math to change value and number coming from 2 up to 7
+// use math to auto change value and number coming from 2 up to 7
 
 let number1 = number();
 let number2 = number();
